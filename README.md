@@ -9,4 +9,4 @@ The code run on Python 2.7
     >>> python crawler domain(e.g. www.hanzhaodeng.com)
 
 
-## example result of http://thought.so can be found on www.hanzhaodeng.com/sitemap.xml
+Example result of http://thought.so can be found on www.hanzhaodeng.com/sitemap.xml

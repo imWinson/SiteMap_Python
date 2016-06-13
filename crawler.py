@@ -35,7 +35,7 @@ class web_crawler:
     excluded_img = set([])
     response_code = {}
     urlregex = re.compile('<a [^>]*href=[\'|"](.*?)[\'|"].*?>')
-    user_agent = 'User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36'
+    user_agent = 'User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4)'
     output = None
 
     def __init__(self,domain = "http://www.hanzhaodeng.com/",file = configuration.file_location):

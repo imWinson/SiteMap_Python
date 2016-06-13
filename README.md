@@ -1,2 +1,2 @@
-# SiteMap_Python
+# SiteMap Python
 Python-SiteMap

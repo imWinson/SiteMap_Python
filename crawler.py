@@ -91,7 +91,7 @@ class web_crawler:
         #     self.crawl_web()
         print 'Done\n'
         self.output.write(output_format.footer)
-        self.output.close
+        self.output.close()
 
         print "Number of Crawled urls : " + str(len(self.crawled_webs))
 
